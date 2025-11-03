@@ -2,7 +2,7 @@
 
 ## Descrição
 
-A **Store API** é uma aplicação desenvolvida em **Java Spring Boot** que permite gerenciar produtos de uma loja, incluindo cadastro, atualização, venda e exclusão de produtos. A API utiliza **Spring Data JPA** para persistência em banco de dados PostgreSQL e está preparada para integração com documentação Swagger.
+A **Store API** é uma API simples, desenvolvida em **Java Spring Boot** para fins de estudo, que permite gerenciar produtos de uma loja, incluindo cadastro, atualização, venda e exclusão de produtos. A API utiliza **Spring Data JPA** para persistência em banco de dados PostgreSQL e está preparada para integração com documentação Swagger.
 
 ---
 
